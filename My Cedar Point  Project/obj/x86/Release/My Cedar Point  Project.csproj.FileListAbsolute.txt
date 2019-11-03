@@ -1,0 +1,3 @@
+C:\Users\ludri\Desktop\Charles C#\Project\My Cedar Point  Project\My Cedar Point  Project\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\ludri\Desktop\Charles C#\Project\My Cedar Point  Project\My Cedar Point  Project\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ludri\Desktop\Charles C#\Project\My Cedar Point  Project\My Cedar Point  Project\obj\x86\Release\My Cedar Point  Project.csproj.GenerateResource.Cache
